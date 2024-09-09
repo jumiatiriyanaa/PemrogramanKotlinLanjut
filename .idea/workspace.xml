@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="add arrayOf.kt" />
+    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="add libraryArray.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/arrayTipePrimitive.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,12 +74,20 @@
       <option name="project" value="LOCAL" />
       <updated>1725872377028</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add libraryArray.kt">
+      <created>1725872608125</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725872608125</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add Main.kt" />
     <MESSAGE value="add arrayOf.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add arrayOf.kt" />
+    <MESSAGE value="add libraryArray.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add libraryArray.kt" />
   </component>
 </project>
