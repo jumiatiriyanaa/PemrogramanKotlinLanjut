@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add PenerapanForLoopKalkulatorEksponensial.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhiledanDoWhileLoop.kt" afterDir="false" />
+    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add WhiledanDoWhileLoop.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenerapanWhileLoopKalkulatorSederhana.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.PenerapanForLoopTabelPerkalianKt">
-    <configuration name="Array2DimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array2DimensiKt" />
-      <module name="PemrogramanKotlinLanjut" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.WhiledanDoWhileLoopKt">
     <configuration name="ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListOfKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -73,13 +67,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhiledanDoWhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhiledanDoWhileLoopKt" />
+      <module name="PemrogramanKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.WhiledanDoWhileLoopKt" />
         <item itemvalue="Kotlin.PenerapanForLoopTabelPerkalianKt" />
         <item itemvalue="Kotlin.ArrayOfKt" />
         <item itemvalue="Kotlin.ArrayListOfKt" />
         <item itemvalue="Kotlin.ArrayMultidimensiKt" />
-        <item itemvalue="Kotlin.Array2DimensiKt" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725886037110</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Add WhiledanDoWhileLoop.kt">
+      <created>1725886398414</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1725886398414</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -272,6 +280,7 @@
     <MESSAGE value="Add PerulanganForLoop.kt" />
     <MESSAGE value="Add PenerapanForLoopTabelPerkalian.kt" />
     <MESSAGE value="Add PenerapanForLoopKalkulatorEksponensial.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add PenerapanForLoopKalkulatorEksponensial.kt" />
+    <MESSAGE value="Add WhiledanDoWhileLoop.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add WhiledanDoWhileLoop.kt" />
   </component>
 </project>
