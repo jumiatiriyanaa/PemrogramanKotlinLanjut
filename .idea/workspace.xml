@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="add libraryArray.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/arrayTipePrimitive.kt" afterDir="false" />
-    </list>
+    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add arrayMultidimensi.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,9 +35,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Array2DimensiKt">
+  <component name="RunManager" selected="Kotlin.ArrayMultidimensiKt">
     <configuration name="Array2DimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array2DimensiKt" />
+      <module name="PemrogramanKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayMultidimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayMultidimensiKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,6 +59,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayMultidimensiKt" />
         <item itemvalue="Kotlin.Array2DimensiKt" />
         <item itemvalue="Kotlin.ArrayOfKt" />
       </list>
@@ -89,13 +95,45 @@
       <option name="project" value="LOCAL" />
       <updated>1725872608125</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add arrayTipePrimitive.kt">
+      <created>1725872797471</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725872797471</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add arrayMethod.kt">
+      <created>1725872888567</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725872888567</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add array2Dimensi.kt">
+      <created>1725872943726</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725872943726</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add arrayMultidimensi.kt">
+      <created>1725873038448</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725873038448</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add Main.kt" />
     <MESSAGE value="add arrayOf.kt" />
     <MESSAGE value="add libraryArray.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add libraryArray.kt" />
+    <MESSAGE value="Add arrayTipePrimitive.kt" />
+    <MESSAGE value="Add arrayMethod.kt" />
+    <MESSAGE value="Add array2Dimensi.kt" />
+    <MESSAGE value="Add arrayMultidimensi.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add arrayMultidimensi.kt" />
   </component>
 </project>
