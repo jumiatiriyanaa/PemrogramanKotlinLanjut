@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add PenerapanWhileLoopKalkulatorSederhana.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PerulanganBreakdanContinue.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add PerulanganforloopReturn.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -261,11 +258,24 @@
       <option name="project" value="LOCAL" />
       <updated>1725887400806</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Add PerulanganBreakdanContinue.kt">
+      <created>1725888577356</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1725888577356</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Add PerulanganforloopReturn.kt">
+      <created>1725888706559</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1725888706559</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Main.kt" />
     <MESSAGE value="add arrayOf.kt" />
     <MESSAGE value="add libraryArray.kt" />
     <MESSAGE value="Add arrayTipePrimitive.kt" />
@@ -289,6 +299,8 @@
     <MESSAGE value="Add PenerapanForLoopKalkulatorEksponensial.kt" />
     <MESSAGE value="Add WhiledanDoWhileLoop.kt" />
     <MESSAGE value="Add PenerapanWhileLoopKalkulatorSederhana.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add PenerapanWhileLoopKalkulatorSederhana.kt" />
+    <MESSAGE value="Add PerulanganBreakdanContinue.kt" />
+    <MESSAGE value="Add PerulanganforloopReturn.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PerulanganforloopReturn.kt" />
   </component>
 </project>
