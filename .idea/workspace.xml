@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add Set.kt" />
+    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add Map.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ArrayListOfKt">
+  <component name="RunManager" selected="Kotlin.ArrayOfKt">
     <configuration name="Array2DimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array2DimensiKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -66,10 +66,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayOfKt" />
         <item itemvalue="Kotlin.ArrayListOfKt" />
         <item itemvalue="Kotlin.ArrayMultidimensiKt" />
         <item itemvalue="Kotlin.Array2DimensiKt" />
-        <item itemvalue="Kotlin.ArrayOfKt" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725874732190</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add Map.kt">
+      <created>1725874826066</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725874826066</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -182,6 +189,7 @@
     <MESSAGE value="Add mutableListOf.kt" />
     <MESSAGE value="Add arrayListOf.kt" />
     <MESSAGE value="Add Set.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Set.kt" />
+    <MESSAGE value="Add Map.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Map.kt" />
   </component>
 </project>
