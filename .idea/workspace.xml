@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add PerulanganForLoop.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenerapanForLoopTabelPerkalian.kt" afterDir="false" />
+    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add PenerapanForLoopTabelPerkalian.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenerapanForLoopKalkulatorEksponensial.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ArrayOfKt">
+  <component name="RunManager" selected="Kotlin.PenerapanForLoopTabelPerkalianKt">
     <configuration name="Array2DimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array2DimensiKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -66,8 +67,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PenerapanForLoopTabelPerkalianKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PenerapanForLoopTabelPerkalianKt" />
+      <module name="PemrogramanKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PenerapanForLoopTabelPerkalianKt" />
         <item itemvalue="Kotlin.ArrayOfKt" />
         <item itemvalue="Kotlin.ArrayListOfKt" />
         <item itemvalue="Kotlin.ArrayMultidimensiKt" />
@@ -224,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725885118297</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Add PenerapanForLoopTabelPerkalian.kt">
+      <created>1725885219245</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1725885219245</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -248,6 +264,7 @@
     <MESSAGE value="Add When.kt" />
     <MESSAGE value="Add KalkulatorSederhanaPercabanganWhen.kt" />
     <MESSAGE value="Add PerulanganForLoop.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add PerulanganForLoop.kt" />
+    <MESSAGE value="Add PenerapanForLoopTabelPerkalian.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PenerapanForLoopTabelPerkalian.kt" />
   </component>
 </project>
