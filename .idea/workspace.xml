@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add listOf.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mutableListOf.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add Set.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,7 +145,28 @@
       <option name="project" value="LOCAL" />
       <updated>1725873540276</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add mutableListOf.kt">
+      <created>1725874526489</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725874526489</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add arrayListOf.kt">
+      <created>1725874644553</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725874644553</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add Set.kt">
+      <created>1725874732190</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725874732190</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -161,6 +179,9 @@
     <MESSAGE value="Add arrayMultidimensi.kt" />
     <MESSAGE value="Add Collections.kt" />
     <MESSAGE value="Add listOf.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add listOf.kt" />
+    <MESSAGE value="Add mutableListOf.kt" />
+    <MESSAGE value="Add arrayListOf.kt" />
+    <MESSAGE value="Add Set.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Set.kt" />
   </component>
 </project>
