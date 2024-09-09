@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add PenerapanForLoopTabelPerkalian.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenerapanForLoopKalkulatorEksponensial.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add PenerapanForLoopKalkulatorEksponensial.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhiledanDoWhileLoop.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725885219245</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Add PenerapanForLoopKalkulatorEksponensial.kt">
+      <created>1725886037110</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1725886037110</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -265,6 +271,7 @@
     <MESSAGE value="Add KalkulatorSederhanaPercabanganWhen.kt" />
     <MESSAGE value="Add PerulanganForLoop.kt" />
     <MESSAGE value="Add PenerapanForLoopTabelPerkalian.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add PenerapanForLoopTabelPerkalian.kt" />
+    <MESSAGE value="Add PenerapanForLoopKalkulatorEksponensial.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PenerapanForLoopKalkulatorEksponensial.kt" />
   </component>
 </project>
