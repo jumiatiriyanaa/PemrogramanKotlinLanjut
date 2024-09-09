@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add Percabangan1.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Percabangan2.kt" afterDir="false" />
+    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add Percabangan2.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KalkulatorSederhanaPercabanganIF_ELSE_IF.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725876150448</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add Percabangan2.kt">
+      <created>1725876606165</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1725876606165</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,6 +216,7 @@
     <MESSAGE value="Add Map.kt" />
     <MESSAGE value="Add Rangers.kt" />
     <MESSAGE value="Add Percabangan1.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Percabangan1.kt" />
+    <MESSAGE value="Add Percabangan2.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Percabangan2.kt" />
   </component>
 </project>
