@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add KalkulatorSederhanaPercabanganWhen.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PerulanganForLoop.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add PerulanganForLoop.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenerapanForLoopTabelPerkalian.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725885035303</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Add PerulanganForLoop.kt">
+      <created>1725885118297</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1725885118297</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -241,6 +247,7 @@
     <MESSAGE value="Add KalkulatorSederhanaPercabanganIF_ELSE_IF.kt" />
     <MESSAGE value="Add When.kt" />
     <MESSAGE value="Add KalkulatorSederhanaPercabanganWhen.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add KalkulatorSederhanaPercabanganWhen.kt" />
+    <MESSAGE value="Add PerulanganForLoop.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PerulanganForLoop.kt" />
   </component>
 </project>
