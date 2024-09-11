@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add PerulanganforloopReturn.kt" />
+    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add PerulanganforloopBreakdanContinue.kt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -272,11 +274,17 @@
       <option name="project" value="LOCAL" />
       <updated>1725888706559</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Add PerulanganforloopBreakdanContinue.kt">
+      <created>1725889558417</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1725889558417</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add arrayOf.kt" />
     <MESSAGE value="add libraryArray.kt" />
     <MESSAGE value="Add arrayTipePrimitive.kt" />
     <MESSAGE value="Add arrayMethod.kt" />
@@ -301,6 +309,7 @@
     <MESSAGE value="Add PenerapanWhileLoopKalkulatorSederhana.kt" />
     <MESSAGE value="Add PerulanganBreakdanContinue.kt" />
     <MESSAGE value="Add PerulanganforloopReturn.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add PerulanganforloopReturn.kt" />
+    <MESSAGE value="Add PerulanganforloopBreakdanContinue.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PerulanganforloopBreakdanContinue.kt" />
   </component>
 </project>
