@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add PenangananEksepsi.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsiMath.kt" afterDir="false" />
+    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add FungsiMath.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MenghitungLuasdanKelilingLingkaran.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Kotlin.NullVariabelKt">
     <configuration name="BreakdanContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakdanContinueKt" />
@@ -352,11 +353,17 @@
       <option name="project" value="LOCAL" />
       <updated>1726112866670</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Add FungsiMath.kt">
+      <created>1726112940765</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1726112940765</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Set.kt" />
     <MESSAGE value="Add Map.kt" />
     <MESSAGE value="Add Rangers.kt" />
     <MESSAGE value="Add Percabangan1.kt" />
@@ -381,6 +388,7 @@
     <MESSAGE value="Add NullSafeCalss.kt" />
     <MESSAGE value="Add NullElvisOperator.kt" />
     <MESSAGE value="Add PenangananEksepsi.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add PenangananEksepsi.kt" />
+    <MESSAGE value="Add FungsiMath.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add FungsiMath.kt" />
   </component>
 </project>
