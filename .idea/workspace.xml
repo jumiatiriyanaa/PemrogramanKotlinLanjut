@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add BreakdanContinuefor-loop.kt" />
+    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add NullVariabel.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/NullOperator1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.BreakdanContinuefor_loopKt">
+  <component name="RunManager" selected="Kotlin.NullVariabelKt">
     <configuration name="BreakdanContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakdanContinueKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -51,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PenerapanForLoopTabelPerkalianKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PenerapanForLoopTabelPerkalianKt" />
+    <configuration name="NullVariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NullVariabelKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.NullVariabelKt" />
         <item itemvalue="Kotlin.BreakdanContinuefor_loopKt" />
         <item itemvalue="Kotlin.BreakdanContinueKt" />
         <item itemvalue="Kotlin.ReturnFor_LoopKt" />
         <item itemvalue="Kotlin.WhiledanDoWhileLoopKt" />
-        <item itemvalue="Kotlin.PenerapanForLoopTabelPerkalianKt" />
       </list>
     </recent_temporary>
   </component>
@@ -301,11 +304,17 @@
       <option name="project" value="LOCAL" />
       <updated>1726109804502</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Add NullVariabel.kt">
+      <created>1726110204808</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1726110204808</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add array2Dimensi.kt" />
     <MESSAGE value="Add arrayMultidimensi.kt" />
     <MESSAGE value="Add Collections.kt" />
     <MESSAGE value="Add listOf.kt" />
@@ -330,6 +339,7 @@
     <MESSAGE value="Add BreakdanContinue.kt" />
     <MESSAGE value="Add ReturnFor-Loop.kt" />
     <MESSAGE value="Add BreakdanContinuefor-loop.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add BreakdanContinuefor-loop.kt" />
+    <MESSAGE value="Add NullVariabel.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add NullVariabel.kt" />
   </component>
 </project>
