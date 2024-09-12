@@ -1,5 +1,5 @@
 fun main() {
-    //Elvis operator
+    //Elvis Operator ?;
     var maybeWelcome: String? = "Hello world"
     println(maybeWelcome?.length ?: 0)
 }
