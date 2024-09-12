@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add PerulanganforloopBreakdanContinue.kt">
+    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add BreakdanContinue.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ReturnFor-Loop.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -31,27 +33,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.WhiledanDoWhileLoopKt">
-    <configuration name="ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListOfKt" />
-      <module name="PemrogramanKotlinLanjut" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayMultidimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayMultidimensiKt" />
-      <module name="PemrogramanKotlinLanjut" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Kotlin.BreakdanContinueKt">
     <configuration name="ArrayOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayOfKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -59,8 +47,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BreakdanContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakdanContinueKt" />
+      <module name="PemrogramanKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PenerapanForLoopTabelPerkalianKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PenerapanForLoopTabelPerkalianKt" />
+      <module name="PemrogramanKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReturnFor_LoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReturnFor_LoopKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BreakdanContinueKt" />
+        <item itemvalue="Kotlin.ReturnFor_LoopKt" />
         <item itemvalue="Kotlin.WhiledanDoWhileLoopKt" />
         <item itemvalue="Kotlin.PenerapanForLoopTabelPerkalianKt" />
         <item itemvalue="Kotlin.ArrayOfKt" />
-        <item itemvalue="Kotlin.ArrayListOfKt" />
-        <item itemvalue="Kotlin.ArrayMultidimensiKt" />
       </list>
     </recent_temporary>
   </component>
@@ -281,11 +283,17 @@
       <option name="project" value="LOCAL" />
       <updated>1725889558417</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Add BreakdanContinue.kt">
+      <created>1726022098050</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1726022098050</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add libraryArray.kt" />
     <MESSAGE value="Add arrayTipePrimitive.kt" />
     <MESSAGE value="Add arrayMethod.kt" />
     <MESSAGE value="Add array2Dimensi.kt" />
@@ -310,6 +318,7 @@
     <MESSAGE value="Add PerulanganBreakdanContinue.kt" />
     <MESSAGE value="Add PerulanganforloopReturn.kt" />
     <MESSAGE value="Add PerulanganforloopBreakdanContinue.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add PerulanganforloopBreakdanContinue.kt" />
+    <MESSAGE value="Add BreakdanContinue.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BreakdanContinue.kt" />
   </component>
 </project>
