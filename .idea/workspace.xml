@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add NullSafeCalss.kt">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add PenangananEksepsi.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsiMath.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -331,12 +331,31 @@
       <option name="project" value="LOCAL" />
       <updated>1726111936009</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Add NullSafeCalss.kt">
+      <created>1726112497690</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1726112497690</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Add NullElvisOperator.kt">
+      <created>1726112676135</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1726112676135</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Add PenangananEksepsi.kt">
+      <created>1726112866670</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1726112866670</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add mutableListOf.kt" />
-    <MESSAGE value="Add arrayListOf.kt" />
     <MESSAGE value="Add Set.kt" />
     <MESSAGE value="Add Map.kt" />
     <MESSAGE value="Add Rangers.kt" />
@@ -360,6 +379,8 @@
     <MESSAGE value="Add NullOperator1.kt" />
     <MESSAGE value="Add NullOperator2.kt" />
     <MESSAGE value="Add NullSafeCalss.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add NullSafeCalss.kt" />
+    <MESSAGE value="Add NullElvisOperator.kt" />
+    <MESSAGE value="Add PenangananEksepsi.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PenangananEksepsi.kt" />
   </component>
 </project>
