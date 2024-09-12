@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add Fungsitanpanilaikembali.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Fungsidengannilaikembali.kt" afterDir="false" />
+    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add FungsiEkspresiTunggal.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArgumenDefaultFungsi.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -381,13 +381,31 @@
       <option name="project" value="LOCAL" />
       <updated>1726113501031</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Add Fungsidengannilaikembali.kt">
+      <created>1726113697822</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1726113697822</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Add MenggunakanPairsebagainilaikembali.kt">
+      <created>1726113780003</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1726113780003</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Add FungsiEkspresiTunggal.kt">
+      <created>1726114117652</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1726114117652</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Percabangan2.kt" />
-    <MESSAGE value="Add KalkulatorSederhanaPercabanganIF_ELSE_IF.kt" />
-    <MESSAGE value="Add When.kt" />
     <MESSAGE value="Add KalkulatorSederhanaPercabanganWhen.kt" />
     <MESSAGE value="Add PerulanganForLoop.kt" />
     <MESSAGE value="Add PenerapanForLoopTabelPerkalian.kt" />
@@ -410,6 +428,9 @@
     <MESSAGE value="Add MenghitungLuasdanKelilingLingkaran.kt" />
     <MESSAGE value="Add MenghitungAkarKuadrat.kt" />
     <MESSAGE value="Add Fungsitanpanilaikembali.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Fungsitanpanilaikembali.kt" />
+    <MESSAGE value="Add Fungsidengannilaikembali.kt" />
+    <MESSAGE value="Add MenggunakanPairsebagainilaikembali.kt" />
+    <MESSAGE value="Add FungsiEkspresiTunggal.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add FungsiEkspresiTunggal.kt" />
   </component>
 </project>
