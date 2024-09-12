@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add ReturnFor-Loop.kt" />
+    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add BreakdanContinuefor-loop.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,16 +36,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.BreakdanContinueKt">
-    <configuration name="ArrayOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayOfKt" />
+  <component name="RunManager" selected="Kotlin.BreakdanContinuefor_loopKt">
+    <configuration name="BreakdanContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakdanContinueKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BreakdanContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakdanContinueKt" />
+    <configuration name="BreakdanContinuefor_loopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakdanContinuefor_loopKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BreakdanContinuefor_loopKt" />
         <item itemvalue="Kotlin.BreakdanContinueKt" />
         <item itemvalue="Kotlin.ReturnFor_LoopKt" />
         <item itemvalue="Kotlin.WhiledanDoWhileLoopKt" />
         <item itemvalue="Kotlin.PenerapanForLoopTabelPerkalianKt" />
-        <item itemvalue="Kotlin.ArrayOfKt" />
       </list>
     </recent_temporary>
   </component>
@@ -294,11 +294,17 @@
       <option name="project" value="LOCAL" />
       <updated>1726109440967</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Add BreakdanContinuefor-loop.kt">
+      <created>1726109804502</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1726109804502</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add arrayMethod.kt" />
     <MESSAGE value="Add array2Dimensi.kt" />
     <MESSAGE value="Add arrayMultidimensi.kt" />
     <MESSAGE value="Add Collections.kt" />
@@ -323,6 +329,7 @@
     <MESSAGE value="Add PerulanganforloopBreakdanContinue.kt" />
     <MESSAGE value="Add BreakdanContinue.kt" />
     <MESSAGE value="Add ReturnFor-Loop.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ReturnFor-Loop.kt" />
+    <MESSAGE value="Add BreakdanContinuefor-loop.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BreakdanContinuefor-loop.kt" />
   </component>
 </project>
