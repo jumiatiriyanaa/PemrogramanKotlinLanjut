@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add NullVariabel.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/NullOperator1.kt" afterDir="false" />
+    <list default="true" id="fad0f1f7-f19a-4af4-b6ab-f731c150f681" name="Changes" comment="Add NullSafeCalss.kt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -311,13 +310,31 @@
       <option name="project" value="LOCAL" />
       <updated>1726110204808</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Add NullOperator1.kt">
+      <created>1726111487508</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1726111487508</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Add NullOperator2.kt">
+      <created>1726111665585</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1726111665585</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Add NullSafeCalss.kt">
+      <created>1726111936009</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1726111936009</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add arrayMultidimensi.kt" />
-    <MESSAGE value="Add Collections.kt" />
-    <MESSAGE value="Add listOf.kt" />
     <MESSAGE value="Add mutableListOf.kt" />
     <MESSAGE value="Add arrayListOf.kt" />
     <MESSAGE value="Add Set.kt" />
@@ -340,6 +357,9 @@
     <MESSAGE value="Add ReturnFor-Loop.kt" />
     <MESSAGE value="Add BreakdanContinuefor-loop.kt" />
     <MESSAGE value="Add NullVariabel.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add NullVariabel.kt" />
+    <MESSAGE value="Add NullOperator1.kt" />
+    <MESSAGE value="Add NullOperator2.kt" />
+    <MESSAGE value="Add NullSafeCalss.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add NullSafeCalss.kt" />
   </component>
 </project>
